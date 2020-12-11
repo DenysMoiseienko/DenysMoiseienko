@@ -1,7 +1,7 @@
 
-### Hi there 👋, my name is Denys
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=DenysMoiseienko" alt="DenysMoiseienko" align="right"/>
 ---
--  I’m currently learning Java 
+-  I’m currently learning <img src='https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280' alt='java' height='20'> 
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/denys-moiseienko/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/dnsukraine/) 
