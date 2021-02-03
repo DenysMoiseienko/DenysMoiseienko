@@ -7,7 +7,7 @@
    > [webStore](http://thebeststore.mariia.top) - Online store for selling sneakers
 
    > [recordStore](https://thebeststore.herokuapp.com) - Online marketplace for vinyl lovers
----
+
 - How to reach me: 
 
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/denys-moiseienko/) 
