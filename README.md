@@ -2,6 +2,8 @@
 ### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=DenysMoiseienko" alt="DenysMoiseienko" align="right"/>
 ---
 -  I’m currently learning <img src='https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280' alt='java' height='20'> 
+                          <img src='https://emojis.slackmojis.com/emojis/images/1536564975/4642/spring.png?1536564975' alt='spring' height='20'> 
+                          <img src='https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488' alt='mysql' height='20'> 
 -  I’m currently working on:
 
    > [webStore](http://thebeststore.mariia.top) - Online store for selling sneakers
